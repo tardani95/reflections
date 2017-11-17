@@ -12,3 +12,7 @@ Describe the differences between forks, clones, and branches. When would you use
 	clone: you can clone someones gitHub repository, or your repositry on GitHub or on your local computer, when you clone, it copies all the histroy, what it has done on the project
 	branch: is a branch of your project, ....
 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	you do not have to merge it to your branch and you can see the changes, ...
