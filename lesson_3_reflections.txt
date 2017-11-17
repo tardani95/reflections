@@ -2,3 +2,10 @@ When would you want to create a remote repository rather than keeping all your w
 
   When I want to colloborate with others, if I work on multiple devices.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	fork: when you clone a gitHub repository to your gitHub profile
+	clone: you can clone someones gitHub repository, or your repositry on GitHub or on your local computer, when you clone, it copies all the histroy, what it has done on the project
+	branch: is a branch of your project, ....
+
+
